@@ -84,11 +84,3 @@ inventory planning, and sales forecasting**.
 
 
 ##Here the screenshot about our project on based of Age, Gender, Orders and also about Occupation!
-
-https://github.com/SaloniVerma7/Diwali_Sales_Analysis/blob/main/Age%20wise%20Group.png
-
-https://github.com/SaloniVerma7/Diwali_Sales_Analysis/blob/main/Gender%20Wise%20Analysis.png
-
-https://github.com/SaloniVerma7/Diwali_Sales_Analysis/blob/main/Occupation%20Based.png
-
-https://github.com/SaloniVerma7/Diwali_Sales_Analysis/blob/main/Order%20Wise%20State.png
